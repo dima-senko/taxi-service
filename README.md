@@ -18,7 +18,7 @@ To use all features you need to create new driver and log in.
 - Display list of all manufacturers
 
 # Technologies:
-- Java 11 
+- Java 17 
 - MySQL 
 - JDBC 
 - Servlet Api 
